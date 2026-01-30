@@ -1,3 +1,3 @@
-# Modified Second File from master branch
+# Updated Second File from bugfix branch
 
 This is the second file in the repository.
